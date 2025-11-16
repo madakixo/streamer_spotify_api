@@ -1,0 +1,5 @@
+spotipy==2.23.0
+matplotlib==3.8.2
+pygame==2.6.0
+streamlit==1.32.0  # For PWA mode
+numpy==1.26.4  # For any audio processing
